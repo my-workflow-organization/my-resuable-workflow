@@ -8,7 +8,7 @@ on:
         default: 'Ali'
         required: false
     secrets:
-      access-token:
+      my-access-token:
         description: 'Secret description'
         required: true 
 jobs:
