@@ -25,4 +25,4 @@ jobs:
       - name: My Display name input
         run: echo ${{ inputs.name }}  
       - name: My Display access-token secret
-        run: echo ${{ secrets.access-token }}  
+        run: echo ${{ secrets.my-access-token }}  
